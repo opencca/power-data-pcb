@@ -1,4 +1,4 @@
-# PCB to multiplex Power and Data
+# PCB to Split USB-C Power and Data
 
 The Rock 5B RK3588 multiplexes a single USB-C PD port for both power and USB data.
 For frequent firmware flashing, connecting this port directly to a host is convenient because it
