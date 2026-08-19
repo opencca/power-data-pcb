@@ -26,5 +26,5 @@ Each board requires these parts:
 Optionally the board contains 3 mounting holes for 3.2mm M3 screws.
 
 ### Credits 
-The circuit topology of this board is based on a schematic provided by [CentyLab](https://www.elecrow.com/usb-c-splitter-androidauto-carplay.html).
+The circuit topology of this board is based on a schematic provided by [CentyLab](https://www.elecrow.com/usb-c-splitter-androidauto-carplay.html) ([web archive](https://web.archive.org/web/20260819090238/https://www.elecrow.com/usb-c-splitter-androidauto-carplay.html)).
 It was used as a functional reference only, all schematic and PCB files were drawn independently in KiCad.
