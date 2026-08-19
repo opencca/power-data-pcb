@@ -20,8 +20,8 @@ This repository provides a custom PCB that de-multiplexes the USB-C PD connectio
 
 ### Part list
 Each board requires these parts:
-- 3x GCT USB4105-GF-A: USB-C receptacle, USB 2.0 (16-pin), top-mount horizontal, TH shield legs (Footprint: `Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal`)
-- 2x 5.1kΩ resistor, 0805 (2012 metric), ±1% (Footprint: `Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder`)
+- 3x GCT USB4105-GF-A: USB-C receptacle, USB 2.0 (16-pin), top-mount horizontal, TH shield legs (Footprint: `Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal`) [AliExpress](https://de.aliexpress.com/item/1005008805115450.html)
+- 2x 5.1kΩ resistor, 0805 (2012 metric), ±1% (Footprint: `Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder`) [AliExpress](https://de.aliexpress.com/item/1005009157984567.html)
 
 Optionally the board contains 3 mounting holes for 3.2mm M3 screws.
 
